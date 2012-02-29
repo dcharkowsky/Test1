@@ -1,0 +1,12 @@
+.MySCMServerInfo
+
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.cache
+*.tlog
+obj/
+bin/
+Debug/
+Release/
