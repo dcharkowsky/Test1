@@ -1,3 +1,1 @@
-;aiu;
-
-This is a new line in text file.
+Erased all lines in this file and added this line.
